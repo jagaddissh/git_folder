@@ -1,4 +1,4 @@
 for i in {1..3}
 do
-echo "Si jenkins"
+echo "$i jenkins"
 done
